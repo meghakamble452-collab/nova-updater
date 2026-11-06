@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.Update.resources
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Nova Updater\bin\Debug\net48\Updater.exe.config
+C:\Users\Administrator\Desktop\Nova Updater\bin\Debug\net48\Updater.exe
+C:\Users\Administrator\Desktop\Nova Updater\bin\Debug\net48\Updater.pdb
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.exe
+C:\Users\Administrator\Desktop\Nova Updater\obj\Debug\net48\Updater.pdb
